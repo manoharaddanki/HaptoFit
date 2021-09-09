@@ -1,0 +1,6 @@
+framework module Pods_TrainerDietTests {
+  umbrella header "Pods-TrainerDietTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "icon-vegetarain-inactive.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
